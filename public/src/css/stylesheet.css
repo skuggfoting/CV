@@ -1,0 +1,136 @@
+body{font-family: Verdana, Helvetica;}
+
+#introduction{
+  background-color: #d4d4d4;
+  width: 205px;
+  height: 100%;
+  padding-left: 10px;
+  padding-bottom: 0px;
+  position: fixed;
+  top: 0px;
+}
+
+#interests ul{
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 0px;
+  margin-top: 0px;
+}
+
+img{
+  padding-top: 10px;
+}
+
+
+h1{
+  position: relative;
+  left: 235px;
+  top: 0px;
+}
+
+
+#main{
+  position: absolute;
+  left: 245px;
+  width: 850px;
+}
+
+.sub-subsection{
+  position: relative;
+  left: 170px;
+  top: -34px;
+  width: max-content;
+}
+.sub-subsection p{
+  margin-bottom: 0px;
+}
+
+.sub-sub-subsection{
+  position: relative;
+  left: 500px;
+  top: -45px;
+  width: max-content;
+}
+
+#main div.subsection{
+  width: 150px;
+}
+
+p{
+  margin-top: 0px;
+}
+
+h1{
+  text-transform: uppercase;
+}
+
+h2{
+  margin-bottom: 0px;
+  text-transform: uppercase;
+  font-size: 1.3em;
+}
+
+h3{
+  margin-top: 0px;
+  margin-bottom: 3px;
+  font-size: 1em;
+}
+
+h4{
+  font-weight: normal;
+  font-style: italic;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+hr{
+  margin-top: 5px;
+  margin-bottom: 20px;
+  height: 2px;
+  background: black;
+  border: none;
+}
+
+#proffessional-experience .subsection ul{
+  list-style-type: circle;
+  padding-left: 18px;
+}
+
+#education .subsection ul{
+  list-style-type: circle;
+  padding-left: 18px;
+}
+
+#proffessional-experience .subsection li{
+  padding-left: 20px;
+}
+
+#education .subsection li{
+  padding-left: 20px;
+}
+
+#q-and-a div.subsection{
+  width: max-content;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+*/
