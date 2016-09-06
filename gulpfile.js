@@ -16,7 +16,7 @@ gulp.task('browserSync', function() {
 });
 
 gulp.task('css', function(){
-  return gulp.src(['public/src/css/stylesheet2.css'])
+  return gulp.src(['public/src/css/stylesheet.css'])
 		.pipe(sourcemaps.init())
 		.pipe(autoprefixer())
 		.pipe(concat('all.css'))
